@@ -15,4 +15,4 @@ My name is Giacomo Ellero and I'm an Italian student 🇮🇹
 - [V](https://github.com/vlang/v): cool concept, really intrested in it's evolution
 - [Godot](https://github.com/godotengine/godot): an opensource replacement for Unity, need time to learn
 
-Switching to Arch Linux and a WM. Look at my [dotfiles](https://github.com/billy4479/dotfiles)
+Switching to Arch Linux and a WM. Checkout my [dotfiles](https://github.com/billy4479/dotfiles)
